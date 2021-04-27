@@ -12,8 +12,8 @@ int main() {
   std::cout << "=======   The Lagos State Polytechnic                       ==========" << endl;;
   std::cout << "=======   Faculty Of Technology                             =========" << endl;;
   std::cout << "=======   Department Of Computer Science                    =========" << endl;;
-  std::cout << "==================================================================" << endl;;
-  std::cout << "===================================================================" << endl;;
+  std::cout << "=======================================================================" << endl;;
+  std::cout << "=======================================================================" << endl;;
 
   std::string name, course_name;
   int total_score[3];
